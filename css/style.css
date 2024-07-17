@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.top-bar{
+	height: 50px; line-height: 50px
+}
+.top-bar a{
+	color: white
+}
+.top-bar a:hover{
+	color: black
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px; border-radius: 20px; color:black
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color: white; background-color: black
+}
+main{
+	min-height: 500px; color: black
+}
+footer{
+	min-height: 200px
+}
+.gach-chan{
+	border-bottom: 2px solid #FF0004
+}
+footer.navbar-nav .nav-item .nav-link:hover{
+	color: re
+}
+#service a{
+	text-decoration: none;color: white
+}
+#service a:hover{
+	color: red
+}
+#why{
+width: 100%; min-height: 350px; background-image: url("../image/1-100.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center top
+}
+.clien{
+	width: 100%; position: relative
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
